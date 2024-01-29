@@ -11,4 +11,4 @@ LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). [Gradient-based learnin
 ![image](https://github.com/Hacking-tech/Hand-Written-Digit-Recognition-Using-Transfer-Learning/blob/main/HWDR/hwdr.png)
 
 ### Developed By:
-[ESHWAR GAJULA](https://github.com/techtricks1), [HACKING TECH](https://github.com/Hacking-tech)
+[Eshwar Gajula](https://github.com/techtricks1), [Hacking Tech](https://github.com/Hacking-tech)
